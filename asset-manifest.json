@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/react-portfolio/static/js/main.b30b7c03.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.b30b7c03.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/js/2.fd616943.chunk.js": "/react-portfolio/static/js/2.fd616943.chunk.js",
+    "static/js/2.fd616943.chunk.js.map": "/react-portfolio/static/js/2.fd616943.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.7f6d8bb1cc5c68aca0436ea8ab79ae1e.js": "/react-portfolio/precache-manifest.7f6d8bb1cc5c68aca0436ea8ab79ae1e.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/js/2.fd616943.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.fd616943.chunk.js.LICENSE.txt",
+    "static/media/AboutMe.jpg": "/react-portfolio/static/media/AboutMe.54567aa0.jpg",
+    "static/media/HW10-Team_Profile_Generator.jpg": "/react-portfolio/static/media/HW10-Team_Profile_Generator.61e1a177.jpg",
+    "static/media/HW11-Note_Taker.jpg": "/react-portfolio/static/media/HW11-Note_Taker.f9d96865.jpg",
+    "static/media/HW12-Employee_Management_System.jpg": "/react-portfolio/static/media/HW12-Employee_Management_System.a8467c1e.jpg",
+    "static/media/HW13-Burger_Logger.PNG": "/react-portfolio/static/media/HW13-Burger_Logger.6882c511.PNG",
+    "static/media/Navbar-bg.jpg": "/react-portfolio/static/media/Navbar-bg.e326712e.jpg",
+    "static/media/Project_2.png": "/react-portfolio/static/media/Project_2.0f8a62a3.png",
+    "static/media/Project_3.PNG": "/react-portfolio/static/media/Project_3.b71410fc.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/js/2.fd616943.chunk.js",
+    "static/js/main.b30b7c03.chunk.js"
+  ]
+}
