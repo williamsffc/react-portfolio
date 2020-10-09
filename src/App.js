@@ -6,9 +6,9 @@ import { About } from "./Pages/About";
 import { Contact } from "./Pages/Contact";
 import { NoMatch } from "./Pages/NoMatch";
 import { Layout } from "./components/Layout";
-import { NavBar } from  "./components/NavBar"
-import { Jumbotron } from "./components/Jumbotron"
-import { Footer } from "./components/Footer"
+import { NavBar } from "./components/NavBar";
+import { Jumbotron } from "./components/Jumbotron";
+import { Footer } from "./components/Footer";
 
 class App extends Component {
   render() {
@@ -19,18 +19,14 @@ class App extends Component {
         <Layout>
           <Router>
             <Switch>
-              <Route exact path="/react-portfolio" component={Home} />
+              <Route exact path="/gh-pages-url" component={Home} />
               <Route
                 exact
-                path="/react-portfolio/portfolio"
+                path="/gh-pages-url/portfolio"
                 component={Portfolio}
               />
-              <Route exact path="/react-portfolio/about" component={About} />
-              <Route
-                exact
-                path="/react-portfolio/contact"
-                component={Contact}
-              />
+              <Route exact path="/gh-pages-url/about" component={About} />
+              <Route exact path="/gh-pages-url/contact" component={Contact} />
               <Route component={NoMatch} />
             </Switch>
           </Router>
