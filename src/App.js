@@ -20,30 +20,26 @@ class App extends Component {
           <Router basename={process.env.PUBLIC_URL}>
             <Switch>
               <Route
-                basename={process.env.PUBLIC_URL}
                 exact
-                path="/"
+                path={process.env.PUBLIC_URL + "/"}
                 component={Home}
               />
               <Route
-                basename={process.env.PUBLIC_URL}
                 exact
-                path="/portfolio"
+                path={process.env.PUBLIC_URL + "/portfolio"}
                 component={Portfolio}
               />
               <Route
-                basename={process.env.PUBLIC_URL}
                 exact
-                path="/about"
+                path={process.env.PUBLIC_URL + "/about"}
                 component={About}
               />
               <Route
-                basename={process.env.PUBLIC_URL}
                 exact
-                path="/contact"
+                path={process.env.PUBLIC_URL + "/contact"}
                 component={Contact}
               />
-              <Route basename={process.env.PUBLIC_URL} component={NoMatch} />
+              <Route component={NoMatch} />
             </Switch>
           </Router>
         </Layout>
