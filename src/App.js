@@ -19,14 +19,14 @@ class App extends Component {
         <Layout>
           <Router>
             <Switch>
-              <Route exact path="/gh-pages-url" component={Home} />
+              <Route exact path="/" component={Home} />
               <Route
                 exact
-                path="/gh-pages-url/portfolio"
+                path="/portfolio"
                 component={Portfolio}
               />
-              <Route exact path="/gh-pages-url/about" component={About} />
-              <Route exact path="/gh-pages-url/contact" component={Contact} />
+              <Route exact path="/about" component={About} />
+              <Route exact path="/contact" component={Contact} />
               <Route component={NoMatch} />
             </Switch>
           </Router>
