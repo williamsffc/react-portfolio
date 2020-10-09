@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 const Styles = styled.div`
   .navbar {
-    background-color: #222;
+    background-color: #38686a;
   }
   .navbar-brand,
   .navbar-nav .nav-link {
@@ -14,7 +14,7 @@ const Styles = styled.div`
       color: white;
     }
   }
-  .navbar-toggle{
+  .navbar-toggle {
     color: #bbb;
   }
 `;
@@ -22,7 +22,7 @@ const Styles = styled.div`
 export const NavBar = () => (
   <Styles>
     <Navbar expand="lg">
-      <Navbar.Brand href="/">Code Life</Navbar.Brand>
+      <Navbar.Brand href="/">Williams Flores</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto">
