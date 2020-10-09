@@ -19,10 +19,18 @@ class App extends Component {
         <Layout>
           <Router>
             <Switch>
-              <Route exact path="/" component={Home} />
-              <Route exact path="/portfolio" component={Portfolio} />
-              <Route exact path="/about" component={About} />
-              <Route exact path="/contact" component={Contact} />
+              <Route exact path="/react-portfolio" component={Home} />
+              <Route
+                exact
+                path="/react-portfolio/portfolio"
+                component={Portfolio}
+              />
+              <Route exact path="/react-portfolio/about" component={About} />
+              <Route
+                exact
+                path="/react-portfolio/contact"
+                component={Contact}
+              />
               <Route component={NoMatch} />
             </Switch>
           </Router>
