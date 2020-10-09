@@ -17,14 +17,10 @@ class App extends Component {
         <NavBar />
         <Jumbotron />
         <Layout>
-          <Router>
+          <Router basename={process.env.PUBLIC_URL}>
             <Switch>
               <Route exact path="/" component={Home} />
-              <Route
-                exact
-                path="/portfolio"
-                component={Portfolio}
-              />
+              <Route exact path="/portfolio" component={Portfolio} />
               <Route exact path="/about" component={About} />
               <Route exact path="/contact" component={Contact} />
               <Route component={NoMatch} />
