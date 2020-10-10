@@ -6,7 +6,7 @@
     "npm": "6.14.7",
     "node": "14.8.0"
   },
-  "homepage": "https://williamsffc.github.io/",
+  "homepage": "https://williamsffc.github.io/react-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
