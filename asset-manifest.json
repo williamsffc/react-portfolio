@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/react-portfolio/static/js/main.40d594bf.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.40d594bf.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
-    "static/js/2.fd616943.chunk.js": "/react-portfolio/static/js/2.fd616943.chunk.js",
-    "static/js/2.fd616943.chunk.js.map": "/react-portfolio/static/js/2.fd616943.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "precache-manifest.0332dedcd7d3411e43dd8ffb1ba79386.js": "/react-portfolio/precache-manifest.0332dedcd7d3411e43dd8ffb1ba79386.js",
-    "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/js/2.fd616943.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.fd616943.chunk.js.LICENSE.txt",
-    "static/media/AboutMe.jpg": "/react-portfolio/static/media/AboutMe.54567aa0.jpg",
-    "static/media/HW10-Team_Profile_Generator.jpg": "/react-portfolio/static/media/HW10-Team_Profile_Generator.61e1a177.jpg",
-    "static/media/HW11-Note_Taker.jpg": "/react-portfolio/static/media/HW11-Note_Taker.f9d96865.jpg",
-    "static/media/HW12-Employee_Management_System.jpg": "/react-portfolio/static/media/HW12-Employee_Management_System.a8467c1e.jpg",
-    "static/media/HW13-Burger_Logger.PNG": "/react-portfolio/static/media/HW13-Burger_Logger.6882c511.PNG",
-    "static/media/Navbar-bg.jpg": "/react-portfolio/static/media/Navbar-bg.e326712e.jpg",
-    "static/media/Project_2.png": "/react-portfolio/static/media/Project_2.0f8a62a3.png",
-    "static/media/Project_3.PNG": "/react-portfolio/static/media/Project_3.b71410fc.PNG"
+    "main.js": "/static/js/main.273650ef.chunk.js",
+    "main.js.map": "/static/js/main.273650ef.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e312f208.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e312f208.js.map",
+    "static/js/2.d1fcc004.chunk.js": "/static/js/2.d1fcc004.chunk.js",
+    "static/js/2.d1fcc004.chunk.js.map": "/static/js/2.d1fcc004.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4881297b92530ba15aba3d257bce011a.js": "/precache-manifest.4881297b92530ba15aba3d257bce011a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.d1fcc004.chunk.js.LICENSE.txt": "/static/js/2.d1fcc004.chunk.js.LICENSE.txt",
+    "static/media/AboutMe.jpg": "/static/media/AboutMe.54567aa0.jpg",
+    "static/media/HW10-Team_Profile_Generator.jpg": "/static/media/HW10-Team_Profile_Generator.61e1a177.jpg",
+    "static/media/HW11-Note_Taker.jpg": "/static/media/HW11-Note_Taker.f9d96865.jpg",
+    "static/media/HW12-Employee_Management_System.jpg": "/static/media/HW12-Employee_Management_System.a8467c1e.jpg",
+    "static/media/HW13-Burger_Logger.PNG": "/static/media/HW13-Burger_Logger.6882c511.PNG",
+    "static/media/Navbar-bg.jpg": "/static/media/Navbar-bg.e326712e.jpg",
+    "static/media/Project_2.png": "/static/media/Project_2.0f8a62a3.png",
+    "static/media/Project_3.PNG": "/static/media/Project_3.b71410fc.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.213b1880.js",
-    "static/js/2.fd616943.chunk.js",
-    "static/js/main.40d594bf.chunk.js"
+    "static/js/runtime-main.e312f208.js",
+    "static/js/2.d1fcc004.chunk.js",
+    "static/js/main.273650ef.chunk.js"
   ]
 }
