@@ -17,7 +17,7 @@ class App extends Component {
         <NavBar />
         <Jumbotron />
         <Layout>
-          <Router >
+          <Router>
             <Switch>
               <Route exact path="/" component={Home} />
               <Route exact path="/portfolio" component={Portfolio} />
